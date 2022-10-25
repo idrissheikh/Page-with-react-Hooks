@@ -52,16 +52,3 @@ export const homeObjFour ={
     alt: 'credit Card'
 
 };
-export const homeObjFive ={
-    lightBg: false,
-    lightText:true,
-    lightTextDesc:true,
-    topLine: 'Exclusive Access',
-    headline:'ماذا يقول المؤذن بعد الاذان', 
-    description:' اللهم صلي على محمد، اللهم رب هذه الدعوة التامة والصلاة القائمة، آت محمداً الوسيلة والفضيلة، وابعثه مقاماً محموداً الذي وعدته إنك لا تخلف الميعاد',
-    buttonLabel: 'Getstarted',
-    imgStart: '',
-    img:'images/svg-4.svg',
-    alt: 'credit Card'
-
-};

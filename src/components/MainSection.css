@@ -31,7 +31,7 @@
 .home__main-text-wrapper{
     max-width: 540px;
     padding-top: 0;
-    padding-bottom: 60+x;
+    padding-left: 100px;
 
 }
 
@@ -53,6 +53,10 @@
     line-height: 1.2;;
     font-weight: 600;
     color: #f7f8fa;
+}
+
+.home__main-subtitle{
+    color: aliceblue;
 }
 .dark{
     color: #1c2237;
